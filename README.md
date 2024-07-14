@@ -48,7 +48,7 @@
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/codewith-rafi/LinkSocials" title="Linktree Alternative"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewith-rafi&repo=LinkSocials&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/codewith-rafi/HTML-notes" title="HTML notes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewith-rafi&repo=HTML-notes&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/codewith-rafi/C-Journey" title="HTML notes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=codewith-rafi&repo=C-Journey&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
