@@ -10,7 +10,9 @@
   🧑‍💼 On a journey, Exploring my interests!
   <br>
 </p>
-
+<div align ="center">
+<img src="https://komarev.com/ghpvc/?username=codewith-rafi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 <div align="center"> 
   <a href = "mailto:20rafiahmed02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/codewithrafi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
