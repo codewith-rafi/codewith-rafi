@@ -48,9 +48,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewith-rafi&theme=radical" height="158em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-rafi&show_icons=true&theme=radical&hide_border=true" height="158em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-rafi&layout=compact&theme=radical&hide_border=true" height="158em" />
 </p>
 
-## GitHub 🏆
-![](https://github-profile-trophy.vercel.app/?username=codewith-rafi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
